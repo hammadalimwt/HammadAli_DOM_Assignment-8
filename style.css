@@ -1,0 +1,18 @@
+body{
+font-family: Arial;
+text-align: center;
+padding: 40px;
+background: white;
+color: black;
+}
+
+button{
+padding: 10px 15px;
+margin: 5px;
+cursor: pointer;
+}
+
+.dark-mode{
+background: black;
+color: white;
+}
